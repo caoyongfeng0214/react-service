@@ -93,3 +93,20 @@ class App extends React.Component {
   }
 }
 ```
+
+# 属性与方法
+
+**$data** 
+
+存储数据的Object。数据以Key、Value的形式存储在此对象中。
+
+
+**$set(key, value)**
+
+
+调用此方法向 `$data` 中存储数据。调用此方法后，数据将立即体现在UI中。
+
+
+**$apply()**
+
+若修改了 `$data` 中的数据（不是用 `$set` 方法修改的），数据将不会立即体现在UI中。调用此方法可使数据立即体现在UI中。
