@@ -6,7 +6,7 @@
 
 # install
 ```
-npm install react-service -save
+npm install r-service -save
 ```
 
 # Example
@@ -14,7 +14,7 @@ npm install react-service -save
 
 ./service/User.js
 ```js
-import Service from 'react-service';
+import Service from 'r-service';
 
 class User extends Service{ // 每个Service继承自react-service中的Service
   gets(){
