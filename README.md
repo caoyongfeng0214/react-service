@@ -104,7 +104,7 @@ class App extends React.Component {
 **$set(key, value)**
 
 
-调用此方法向 `$data` 中存储数据。调用此方法后，数据将立即体现在UI中。
+调用此方法向 `$data` 中存储数据。调用此方法存储的数据将立即体现在UI中。
 
 
 **$apply()**
