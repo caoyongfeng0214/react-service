@@ -78,9 +78,9 @@ class App extends React.Component {
     // UI中的数据从Service的$data获取
     return <View>
       {
-        this.$data.users
+        this.user.$data.users
         ?
-        this.$data.users.map((T) => {
+        this.user.$data.users.map((T) => {
           return <View>
             <Text>{T.id} : {T.name}</Text>
             <Button title="Remove" onPress={()=>this.remove(T.id)}/>
