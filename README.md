@@ -66,7 +66,7 @@ class App extends React.Component {
     this.user = User.init(this);
     
     // 调用Service中的方法获取数据
-    this.gets();
+    this.user.gets();
   }
   
   remove(id){
