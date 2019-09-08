@@ -1,6 +1,6 @@
 # react-service
 
-[MobX](https://mobx.js.org/)？非常优秀。还有一些其它的类似的package，也有不少优秀之作。但我想要的仅仅是一个能让我能非常简单地进行数据维护的方式。或许称之为state management不太确切。
+[MobX](https://mobx.js.org/)？非常优秀。还有一些其它的类似的package，也有不少优秀之作。但我想要的仅仅是一个能非常简单地进行数据维护的方式。或许称之为state management不太确切。
 
 **react-service**是数据与UI之间的桥梁。
 
