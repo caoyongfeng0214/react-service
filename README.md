@@ -51,7 +51,7 @@ class User extends Service{ // 每个Service继承自react-service中的Service
 ```
 
 ./App.js
-```
+```js
 import React from 'react';
 import {View, Text, Button} from 'react-native';
 
