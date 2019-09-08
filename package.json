@@ -1,0 +1,24 @@
+{
+  "name": "react-service",
+  "version": "0.1.0",
+  "description": "a simple react state management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caoyongfeng0214/react-service.git"
+  },
+  "keywords": [
+    "react-service",
+    "react",
+    "state management"
+  ],
+  "author": "CYF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caoyongfeng0214/react-service/issues"
+  },
+  "homepage": "https://github.com/caoyongfeng0214/react-service"
+}
